@@ -1,5 +1,5 @@
 # Boilerplate React App
-## Weather app written in ReactJs
+## Boilerplate project written in ReactJs
 * Install webpack npm install -g webpack
 * Run npm install 
 * Run webpack
